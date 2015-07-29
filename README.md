@@ -8,3 +8,7 @@ import	"github.com/Wang/gounzip/unzip"
 unzip.Do(zipfile, targetDirectory)
 
 可以参考 main.go实现
+
+下载二进制文件：
+
+https://github.com/Wang/gounzip/archive/1.0.tar.gz
